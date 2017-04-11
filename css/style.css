@@ -1,0 +1,57 @@
+ul {
+  list-style: none;
+}
+
+#filters {
+  display: inline-block;
+  margin: 10px;
+}
+#filters li {
+  float: left;
+}
+
+.tour {
+  display: inline-block;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  background: #AFE6E5;
+  border: 1px solid #3F88C5;
+  border-radius: 15px;
+}
+
+.tour p, .tour h2, .tour button {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5px;
+  width: 80%;
+ 
+}
+
+.highlight {
+  background: #C0FDFB;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+button {
+  margin: 10px;
+}
+
+h1 {
+  margin-left: 30%;
+}
+
+#all-tours {
+  margin: 0 auto;
+  width: 800px;
+  height: 90%;
+  background: #DAFFEF;
+  border: 1px solid #3F88C5;
+  border-radius: 15px;
+}
+body {
+  background: #FCFFFD;
+}
